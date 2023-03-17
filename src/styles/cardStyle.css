@@ -1,0 +1,24 @@
+.dataCard{
+    width: 200px;
+    height:370x;
+    border: 1px solid rgb(8, 8, 8);
+    border-radius: 15px;
+    background-color: rgb(131, 99, 235);
+}
+
+.dataCard img{
+    width: 100%;
+    height: 100%;
+}
+
+.dataCard p{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.dataCardImage{
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
